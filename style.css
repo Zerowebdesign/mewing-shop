@@ -1,0 +1,317 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+body{
+    font-family: "Roboto Mono";
+    background-color: #6374A3;
+    width: 160%;
+    height: 100;
+}
+iconz
+header{
+    height: 50px;
+}
+.zagolovok{
+    position: relative;
+    display: flex;
+
+}
+.abobs{
+    position: relative;
+    left: 400px;
+    display: flex;
+    align-items: center;
+    margin: 50x;
+    background-color: rgb(226, 172, 2);
+    border-radius: 20px;
+    text-align: center;
+}
+.otzivi{
+    display: flex;
+    text-align: center;
+    width: 150px;
+    height: 100px;
+    position: relative;
+    bottom: 200px;
+    left: 875px;
+}
+.products{
+    display: flex;
+    text-align: center;
+    width: 175px;
+    height: 100px;
+    position: relative;
+    bottom: 100px;
+    left: 675px;
+}
+.glavnaya{
+    display: flex;
+    text-align: center;
+    width: 175px;
+    height: 100px;
+    position: relative;
+    left: 475px;
+}
+a{
+    text-decoration: none;
+}
+main{
+    display: flex;
+    align-items: center;
+}
+.onas{
+    position: relative;
+    top: 30px;
+    background-color: #2D258D;
+    color: white;
+    align-items: center;
+    width: 70%;
+    font-size: 25px;
+    height: 500px;
+    width: 850px;
+    border-radius: 10px;
+}
+.fsig{
+    width: 240px;
+    height: 180px;
+    position: relative;
+    top: 10px;
+}
+.fsig1{
+    top: 10px;
+    width: 240px;
+    height: 180px;
+    position: relative;
+}
+.textf{
+    position: relative;
+    width: auto;
+    bottom: 40px;
+}
+.rank{
+    color: red;
+}
+.sigma{
+    color: rgb(226, 172, 2);
+}
+header{
+    color: rgb(0, 0, 0);
+    background-color:#FFFD82;
+    height:105px ;
+}
+
+.textf1{
+    position: relative;
+    width: auto;
+    bottom: 40px;
+}
+.example{
+    position: relative;
+    top: 30px;
+    float: right;
+    background-color: #8883c6;
+    color: white;
+    align-items: center;
+    width: 70%;
+    font-size: 25px;
+    height: 490px;
+    width: 850px;
+    border-radius: 10px;
+    margin-left: 75px;
+}
+.textf2{
+    position: relative;
+    width: auto;
+    top: 3px;
+}
+.buyf{
+    background-color:#d5c3b5;
+    width: 300px;
+    height: 180px;
+    position: relative;
+    bottom: 20px;
+    left: 10px;
+    font-size: 18px;
+    border-radius: 50px;
+    text-align: center;
+}
+.buys{
+    background-color:#d5c3b5;
+    width: 300px;
+    height: 180px;
+    position: relative;
+    bottom: 200px;
+    right: 30px;
+    float: right;
+    font-size: 18px;
+    border-radius: 50px;
+    text-align: center;
+}
+.nach{
+    color: green;
+}
+.end{
+    color: red;
+}
+.iconf{
+    width: 180px;
+    position: relative;
+    bottom: 500px;
+    left: 300px;
+}
+.iconz{
+    width: 100px; height: 100px;
+    z-index: 100;
+    position: absolute;
+    bottom: 855px;
+    left: 90px;
+}
+.sms{
+    font-size: 50px;
+}
+.machine{
+    width: 250px;
+    height: 250px;
+    float: right;
+    position: relative;
+    bottom: 230px;
+    right: 15px;
+}
+.hit{
+    position: relative;
+    right: 390px;
+    top: 50px;
+    background-color:#44337a;
+    height:400px;
+    width: 800px;
+    font-size: 23px;
+}
+.buy{
+    width: 275px;
+    height: 100px;
+    background-color: #54d57de9;
+    position: relative;
+    top: 37px;
+    left: 520px;
+    border-radius: 35px;
+    text-align: center;
+}
+.buyt{
+    position: relative;
+    top:5px;
+}
+.guide{
+    width: 275px;
+    height: 100px;
+    background-color: #59ace0e9;
+    position: relative;
+    bottom: 95px;
+    left: 25px;
+    border-radius: 35px;
+    text-align: center;
+}
+.n{
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 20px;
+}
+.hits{
+    position: relative;
+    right: 505px;
+    top: 475px;
+    background-color:#44337a;
+    height:400px;
+    width: 2000px;
+    font-size: 23px;
+}
+.kursf{
+    background-color: #EADAA2;
+    height: 350px;
+    width: 2000px;
+    position: relative;
+    left: 400px;
+}
+.skibidi{
+    width: 250px;
+    float: right;
+    position: relative;
+    bottom: 405px;
+}
+.k{
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 20px;
+}
+.buyk{
+    width: 275px;
+    height: 100px;
+    background-color: #54d57de9;
+    position: relative;
+    top: 40px;
+    left: 520px;
+    border-radius: 35px;
+    text-align: center;
+}
+.l{
+    color: rgb(255, 255, 255);
+}
+.sigmas{
+    width: 250px;
+    height: 250px;
+    float: right;
+    position: relative;
+    bottom: 225px;
+}
+.productf{
+    position: relative;
+    top: 950px;
+    right: 1400px;
+    bottom: 20px;
+    background-color: antiquewhite;
+    height:350px;
+    width: 2000px;
+}
+.buyb{
+    width: 275px;
+    height: 100px;
+    background-color: #54d57de9;
+    position: relative;
+    left: 300px;
+    border-radius: 35px;
+    text-align: center;
+}
+.otziv{
+    background-color: white;
+    width: 650px;
+    border-radius: 3%;
+    position: relative;
+    top: 130px;
+    left: 200px;
+    height: 300px;
+}
+.otzivf{
+    width: 325px;
+    height: 250px;
+    position: relative;
+    left: 300px;
+    bottom: 170px;
+    background-color: rgb(224, 224, 224);
+    border-radius: 5%;
+    text-align: center;
+}
+
+.abobes{
+    position: relative;
+    top: 50px;
+}
+.nefor{
+    position: relative;
+    top: 50px;
+}
+.star{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 55px;
+}
+.otzivii{
+    height: 1000px;
+}
